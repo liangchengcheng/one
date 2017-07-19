@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/one-code-gen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/one-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/one-file-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/one-login" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/one-main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/one-notify" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/one-sys" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/one-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/one-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/one-workflow" charset="UTF-8" />
+  </component>
+</project>

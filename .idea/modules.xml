@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/one.iml" filepath="$PROJECT_DIR$/one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one-code-gen/one-code-gen.iml" filepath="$PROJECT_DIR$/one-code-gen/one-code-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one-entity/one-entity.iml" filepath="$PROJECT_DIR$/one-entity/one-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one-file-server/one-file-server.iml" filepath="$PROJECT_DIR$/one-file-server/one-file-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one-login/one-login.iml" filepath="$PROJECT_DIR$/one-login/one-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one-main/one-main.iml" filepath="$PROJECT_DIR$/one-main/one-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one-notify/one-notify.iml" filepath="$PROJECT_DIR$/one-notify/one-notify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one-sys/one-sys.iml" filepath="$PROJECT_DIR$/one-sys/one-sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one-user/one-user.iml" filepath="$PROJECT_DIR$/one-user/one-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one-util/one-util.iml" filepath="$PROJECT_DIR$/one-util/one-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one-workflow/one-workflow.iml" filepath="$PROJECT_DIR$/one-workflow/one-workflow.iml" />
+    </modules>
+  </component>
+</project>
